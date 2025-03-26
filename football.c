@@ -40,7 +40,7 @@ void print_combinations(int points) {
     }
 }
 
-int main() {
+int football() {
     int num;
     
     while (1) {
